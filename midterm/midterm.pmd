@@ -1,0 +1,51 @@
+% FIN 6470: Derivatives Markets -- Midterm
+% Mark Allred -- A01647260
+% April 9th, 2019
+
+
+
+1. Question 1
+	a) Does $F_0 > S_0 e^{rT}$ imply an arbitrage opportunity?
+	b) Does $F_0 < S_0 e^{rT}$ imply an arbitrage opportunity?
+	c) How does the pricing equation change if the asset is dividend paying?
+	d) How does the pricing equation change if the asset has storage costs? A convenience yield?
+	e) 1) Explain why the futures price price at maturity equals the spot price at maturity and 2) what happens if $F_T \neq S_T$?
+	f) Somethin about a prepaid forward
+
+
+2. Question 2
+	a) Test the series using ADF. Report conlusions, which series contain a unit root, and discuss the results.
+	b) Plots: Price Levels, First Differences, Log-Price Levels, and Log-Price First Differences.
+	c) Test the series using Engle-Granger. Report results and the cointegrating vector.
+	d) Plot estimated residuals and comment on the graph as relates to the issue of cointegration.
+	e) Linear Regression on a rolling minimum-variance hedge ratio. Plot the series and comment on it. What does this say about the dynamic stability of the hedge ratio?
+
+3. Question 3
+	a) Simulation
+	b) Plots
+	c) Simulated cash flows
+	d) Simulated Minimum-Variance Hedge Ratio
+	e) Do the simulated pairs of futures and spot prices appear to be cointe- grated? Why or why not? What does the Bollen-Whaley model used for simulation suggest about cointegration?
+
+4. Describe the institutional differences between forward markets and futures markets. Describe the historical evolution of futures markets and the institutional features that define futures markets. Why have they developed the way they have? What market problems have they solved?
+
+5. Question 5
+	a) Report the main empirical findings of the paper and statistical and econometric methods the author used. Discuss how persuaded you are by the results.
+	b) Discuss the empirical findings of Liu relative to the Culp quote,
+
+	> it becomes quite hard to explain a lot of financial and derivatives market activity without being a \textit{little bit Austrian}.
+
+	c) Outline the methodology Liu uses to conduct trading simulations. Discuss results.
+
+6. Question 6
+	a) Outline the basics of the strategy and how it differs from risk minimizing hedging.
+	b) Discuss which hedge ratio is correct. Discuss an empirical strategy for estimating the proper hedge ratio.
+	c) Comment on the Pirrong quote invoking Baye's Rule.
+	d) What is the importance of the predictive distribution in this hedging application.
+	e) Does it matter for MG's strategy if a market is in backwardation or contango?
+
+7. Discuss the data used in \textit{Orange Juice and Weather}. Discuss the findings from the study in relation to Hayek's \textit{The Use of Knowledge in Society}.
+
+8. Relate \textit{Futures markets, Bayesian forecasting and risk modeling} by Quintana, Carvalho, Scott, and Costigliola to the articles and themes developed in the semester.
+
+9. The future of derivatives.
